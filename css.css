@@ -1,0 +1,132 @@
+/*页头部分开始*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.header {
+    width: 1200px;
+    height: 72px;
+    margin: 0 auto;
+
+
+}
+
+li {
+    width: 80px;
+    height: 72px;
+    background-color: white;
+    list-style-type: none;
+    float: left;
+    line-height: 72px;
+    text-align: center;
+    color: black;
+}
+
+li:hover {
+    background-color: #6699ff;
+    color: white;
+    cursor: pointer;
+}
+
+#alllogo {
+    float: left;
+    padding-right: 150px;
+}
+
+#loginOrReg {
+    float: right;
+    line-height: 72px;
+}
+
+#logo2 {
+    align-self: center;
+
+}
+
+/*搜索栏部分开始*/
+.grey {
+    height: 60px;
+    width: 100%;
+    background-color: #666666;
+}
+
+.greyCenter {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.greylogo {
+    width: 100px;
+    height: 60px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+
+    border-style: none solid none solid;
+    border-right: #ffffff;
+    border-left: #ffffff;
+    border-width: 1px;
+}
+
+#fangdajing {
+    background-image: url("img/fangdajing.png");
+    float: left;
+}
+
+#lishi {
+    background-image: url("img/lishi.png");
+    float: right;
+}
+
+#dianping {
+    background-image: url("img/dianping.png");
+    float: right;
+}
+
+#geren {
+    background-image: url("img/geren.png");
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
